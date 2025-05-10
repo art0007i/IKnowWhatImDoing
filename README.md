@@ -1,3 +1,5 @@
+# This mod is no longer necessary as it was added in the 2025.2.5.1304 update
+
 # IKnowWhatImDoing
 
 A [ResoniteModLoader](https://github.com/resonite-modding-group/ResoniteModLoader) mod for [Resonite](https://resonite.com/) that removes the warning when you try to delete a component.
